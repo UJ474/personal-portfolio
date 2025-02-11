@@ -5,25 +5,22 @@ body{
 
 .Header {
     height: auto;
-    padding: 0 50px;
+    padding: 0 250px;
 }
 
 .nav-bar {
-   /* height: auto; */
-
-    border-radius: 15%;
+    border-radius: 10px;
     display: flex;
-
     background-color: rgb(2, 9, 54);
     height: 2rem;
     text-align: center;
     justify-content: space-around;
     align-items: center;
-    /* justify-content: center;
-    text-align: center; */
+
 }
 
 .nav-bar-headings {
     color: white;
+    font-size: small;
 
 }
